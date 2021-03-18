@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DDDVE
-- 👀 I’m interested in tennis and coding
+- 👀 I’m interested in playing tennis and coding
 - 🌱 I’m currently learning RL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email:dingwy98@163.com
